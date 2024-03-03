@@ -1,0 +1,38 @@
+.colorbox{
+    background-color: rgb(234, 246, 168);
+    text-align-last: center; 
+    font-family: 'Times New Roman', Times, serif;
+    position: sticky;
+}
+
+.colorapple{
+    color: rgb(9, 151, 159);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    
+}
+
+.jellyfish{
+    background-color: rgb(149, 243, 132);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    position: sticky;
+} 
+
+#david{
+    border-style: dashed;
+    padding: 5px 20px;
+    border-width: 7px;
+    border-color: rgb(7, 47, 225);
+    position: sticky;
+}
+
+.dog{
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    font-size: x-large;
+    background-color: cornflowerblue;
+    color: bisque;
+    border: 15px solid rgb(102, 102, 102);
+
+}
